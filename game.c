@@ -1,8 +1,8 @@
 /*
 Name :- Laxmiprasad Sindageri
 Date :- 31/10/26
-Description :- This assignement is basically explains about the game i.e suppose there are 13 chocolates and there are two players in this game each player have turns to choose the chocolates(they have to choose between 0 and 3).if player 1
-                chooses 2 and player 2 also chooses 2 the remaining chocolates will be 9.whenever after players choose the chocolates it become 0 the next turn player will get chilli and he lose the game.
+Description :- This assignement is basically explains about the game i.e suppose there are '13' chocolates and there are two players in this game each player have turns to choose the chocolates(they have to choose between 0 and 3).if player 1
+                chooses '2' and player 2 also chooses '2' the remaining chocolates will be '9'.whenever after players choosing the chocolates it become '0' the next turn player will get chilli and he lose the game.
 */
 #include <stdio.h>
 int main(){
